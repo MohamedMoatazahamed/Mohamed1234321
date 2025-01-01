@@ -1,0 +1,58 @@
+﻿@model Hospitall.Models.viewModel.appoviewModel
+
+@{
+    ViewData["Title"] = "create";
+}
+
+<h1>create</h1>
+
+<h4>Appointment</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="notes" class="control-label"></label>
+                <input asp-for="notes" class="form-control" />
+                <span asp-validation-for="notes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PatId" class="control-label"></label>
+                <select asp-for="PatId" class ="form-control" asp-items="ViewBag.PatId">
+                    @foreach (var Do in Model.patients)
+                    {
+                        <option value="@Do.PatId">@Do.PatName</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DoctId" class="control-label"></label>
+                <select asp-for="DoctId" class ="form-control" asp-items="ViewBag.DoctId">
+
+                    @foreach (var Do in Model.Doctors)
+                    {
+                        <option value="@Do.DocID">@Do.Name</option>
+                    }
+
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Getall">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

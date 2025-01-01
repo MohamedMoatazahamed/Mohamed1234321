@@ -1,0 +1,53 @@
+﻿@model IEnumerable<schoolsystem.Models.Enrollment>
+
+@{
+    ViewData["Title"] = "Getall";
+}
+
+<h1>Getall</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.class1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.student)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Teacher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Enroll)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.class1.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.student.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Teacher.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Enroll)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

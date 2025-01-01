@@ -1,0 +1,667 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\controllers\\doctors1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\controllers\\doctors1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\controllers\\appocontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\controllers\\appocontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\appocontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\appocontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\controllers\\patentcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\controllers\\patentcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\patentcontroller1\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\patentcontroller1\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\ropis\\rpatent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\ropis\\rpatent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\ropis\\iropis\\ipatent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\ropis\\iropis\\ipatent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\doctorcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\doctorcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\ropis\\rappo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\ropis\\rappo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\ropis\\iropis\\iappoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\ropis\\iropis\\iappoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\viewmodel\\appoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\viewmodel\\appoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\ropis\\rdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\ropis\\rdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\controllers\\doctorcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\controllers\\doctorcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\ropis\\iropis\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\ropis\\iropis\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\appocontroller1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\appocontroller1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\doctorcontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\doctorcontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\doctorcontroller1\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\doctorcontroller1\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\doctorcontroller1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\doctorcontroller1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\patentcontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\patentcontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\patentcontroller1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\patentcontroller1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\appocontroller1\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\appocontroller1\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\appocontroller1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\appocontroller1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\appocontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\appocontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\patentcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\patentcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\migrations\\20241225094738_mohamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\migrations\\20241225094738_mohamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|c:\\users\\moham\\desktop\\work\\hospitall\\hospitall\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFC2096-230D-4EF3-BAE5-A70234644587}|Hospitall\\Hospitall.csproj|solutionrelative:hospitall\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 97,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "rDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\rDoctor.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\ropis\\rDoctor.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\rDoctor.cs",
+              "RelativeToolTip": "Hospitall\\Models\\ropis\\rDoctor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:06:33.614Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctors1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Controllers\\Doctors1Controller.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Controllers\\Doctors1Controller.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Controllers\\Doctors1Controller.cs",
+              "RelativeToolTip": "Hospitall\\Controllers\\Doctors1Controller.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwDkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:54:30.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Getall.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\PatentController1\\Getall.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\PatentController1\\Getall.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\PatentController1\\Getall.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\PatentController1\\Getall.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T11:58:28.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Hospitall\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:05:35.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appoController1.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Controllers\\appoController1.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Controllers\\appoController1.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Controllers\\appoController1.cs",
+              "RelativeToolTip": "Hospitall\\Controllers\\appoController1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:07:59.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\appoController1\\create.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\appoController1\\create.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\appoController1\\create.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\appoController1\\create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:29:25.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatentController1.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Controllers\\PatentController1.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Controllers\\PatentController1.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Controllers\\PatentController1.cs",
+              "RelativeToolTip": "Hospitall\\Controllers\\PatentController1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:07:11.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "rpatent.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\rpatent.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\ropis\\rpatent.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\rpatent.cs",
+              "RelativeToolTip": "Hospitall\\Models\\ropis\\rpatent.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:24:28.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ipatent.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\Iropis\\ipatent.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\ropis\\Iropis\\ipatent.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\Iropis\\ipatent.cs",
+              "RelativeToolTip": "Hospitall\\Models\\ropis\\Iropis\\ipatent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:23:12.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\DoctorController1\\create.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\DoctorController1\\create.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\DoctorController1\\create.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\DoctorController1\\create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:11:15.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "rappo.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\rappo.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\ropis\\rappo.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\rappo.cs",
+              "RelativeToolTip": "Hospitall\\Models\\ropis\\rappo.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwDcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:43:16.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Iappoin.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\Iropis\\Iappoin.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\ropis\\Iropis\\Iappoin.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\Iropis\\Iappoin.cs",
+              "RelativeToolTip": "Hospitall\\Models\\ropis\\Iropis\\Iappoin.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:40:46.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T09:49:43.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Program.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Program.cs",
+              "RelativeToolTip": "Hospitall\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:37:14.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appdbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\appdbcontext.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\appdbcontext.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\appdbcontext.cs",
+              "RelativeToolTip": "Hospitall\\Models\\appdbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:30:44.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appoviewModel.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\viewModel\\appoviewModel.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\viewModel\\appoviewModel.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\viewModel\\appoviewModel.cs",
+              "RelativeToolTip": "Hospitall\\Models\\viewModel\\appoviewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:37:22.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\appsettings.json",
+              "RelativeDocumentMoniker": "Hospitall\\appsettings.json",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\appsettings.json",
+              "RelativeToolTip": "Hospitall\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T09:39:41.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorController1.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Controllers\\DoctorController1.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Controllers\\DoctorController1.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Controllers\\DoctorController1.cs",
+              "RelativeToolTip": "Hospitall\\Controllers\\DoctorController1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:07:38.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\Iropis\\IDoctor.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\ropis\\Iropis\\IDoctor.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\ropis\\Iropis\\IDoctor.cs",
+              "RelativeToolTip": "Hospitall\\Models\\ropis\\Iropis\\IDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:01:55.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\appoController1\\Update.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\appoController1\\Update.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\appoController1\\Update.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\appoController1\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:34:56.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\DoctorController1\\update.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\DoctorController1\\update.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\DoctorController1\\update.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\DoctorController1\\update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:12:59.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\DoctorController1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\DoctorController1\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\DoctorController1\\Delete.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\DoctorController1\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:12:05.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Getall.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\DoctorController1\\Getall.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\DoctorController1\\Getall.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\DoctorController1\\Getall.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\DoctorController1\\Getall.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:10:10.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\PatentController1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\PatentController1\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\PatentController1\\Delete.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\PatentController1\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:01:43.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\PatentController1\\update.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\PatentController1\\update.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\PatentController1\\update.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\PatentController1\\update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:02:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Getall.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\appoController1\\Getall.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\appoController1\\Getall.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\appoController1\\Getall.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\appoController1\\Getall.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:18:14.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\appoController1\\Details.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\appoController1\\Details.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\appoController1\\Details.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\appoController1\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T06:57:40.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\appoController1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\appoController1\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\appoController1\\Delete.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\appoController1\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T21:02:40.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\Patient.cs",
+              "RelativeToolTip": "Hospitall\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:22:01.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\Appointment.cs",
+              "RelativeToolTip": "Hospitall\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:23:39.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T09:49:37.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T09:49:42.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\PatentController1\\create.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\PatentController1\\create.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\PatentController1\\create.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\PatentController1\\create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:00:34.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T11:49:37.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T09:49:25.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T09:49:27.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Models\\Doctor.cs",
+              "RelativeToolTip": "Hospitall\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:19:08.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appdbcontextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Migrations\\appdbcontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Migrations\\appdbcontextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Migrations\\appdbcontextModelSnapshot.cs",
+              "RelativeToolTip": "Hospitall\\Migrations\\appdbcontextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:21:20.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241225094738_Mohamed.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Migrations\\20241225094738_Mohamed.cs",
+              "RelativeDocumentMoniker": "Hospitall\\Migrations\\20241225094738_Mohamed.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Migrations\\20241225094738_Mohamed.cs",
+              "RelativeToolTip": "Hospitall\\Migrations\\20241225094738_Mohamed.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:47:39.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Hospitall\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\Hospitall\\Hospitall\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Hospitall\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T09:49:36.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

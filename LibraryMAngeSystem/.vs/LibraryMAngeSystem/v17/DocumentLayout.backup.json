@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\models\\rop\\rbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\models\\rop\\rbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\controllers\\borrowrecorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\controllers\\borrowrecorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\models\\rop\\ropistary\\rborrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\models\\rop\\ropistary\\rborrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\models\\rop\\interface\\iborrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\models\\rop\\interface\\iborrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\models\\viewmodel\\borrowrecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\models\\viewmodel\\borrowrecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\borrowrecor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\borrowrecor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\borrowrecor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\borrowrecor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\models\\rop\\interface\\imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\models\\rop\\interface\\imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\models\\rop\\interface\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\models\\rop\\interface\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\borrowrecor\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\borrowrecor\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\member\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\member\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\book\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\book\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\migrations\\20241228084227_mohamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\migrations\\20241228084227_mohamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|c:\\users\\moham\\desktop\\work\\librarymangesystem\\librarymangesystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCDCE3-871F-47A6-A8C5-22D7DA4CF51A}|LibraryMAngeSystem\\LibraryMAngeSystem.csproj|solutionrelative:librarymangesystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 97,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:39:27.712Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowRecorController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Controllers\\BorrowRecorController.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Controllers\\BorrowRecorController.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Controllers\\BorrowRecorController.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Controllers\\BorrowRecorController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:32:22.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\rop\\interface\\IBorrowRecord.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Models\\rop\\interface\\IBorrowRecord.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\rop\\interface\\IBorrowRecord.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Models\\rop\\interface\\IBorrowRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:44:42.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rBorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\rop\\ropistary\\rBorrowRecord.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Models\\rop\\ropistary\\rBorrowRecord.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\rop\\ropistary\\rBorrowRecord.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Models\\rop\\ropistary\\rBorrowRecord.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:31:49.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rBook.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\rop\\rBook.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Models\\rop\\rBook.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\rop\\rBook.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Models\\rop\\rBook.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:49:19.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\BorrowRecor\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\BorrowRecor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\BorrowRecor\\Create.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\BorrowRecor\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T00:31:11.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowRecordviewModel.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\viewmodel\\BorrowRecordviewModel.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Models\\viewmodel\\BorrowRecordviewModel.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\viewmodel\\BorrowRecordviewModel.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Models\\viewmodel\\BorrowRecordviewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:17:52.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:09:02.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\BorrowRecor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\BorrowRecor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\BorrowRecor\\Edit.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\BorrowRecor\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:49:36.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMember.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\rop\\interface\\IMember.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Models\\rop\\interface\\IMember.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\rop\\interface\\IMember.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Models\\rop\\interface\\IMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:23:37.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\BorrowRecor\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\BorrowRecor\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\BorrowRecor\\GetAll.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\BorrowRecor\\GetAll.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T12:52:57.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\rop\\interface\\IBook.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Models\\rop\\interface\\IBook.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\rop\\interface\\IBook.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Models\\rop\\interface\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:46:37.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:57:07.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:21:08.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Member\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\Member\\Details.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Member\\Details.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\Member\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:56:20.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:59:20.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Member\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\Member\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Member\\Delete.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\Member\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:59:04.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Book\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\Book\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Book\\GetAll.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\Book\\GetAll.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:43:13.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:55:57.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:46:24.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:55:39.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:54:49.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryMAngeSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T09:55:57.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241228084227_Mohamed.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Migrations\\20241228084227_Mohamed.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Migrations\\20241228084227_Mohamed.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Migrations\\20241228084227_Mohamed.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Migrations\\20241228084227_Mohamed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:42:28.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryMAngeSystem\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Work\\LibraryMAngeSystem\\LibraryMAngeSystem\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryMAngeSystem\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:12:40.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
